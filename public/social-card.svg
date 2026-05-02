@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050816" />
+      <stop offset="50%" stop-color="#091126" />
+      <stop offset="100%" stop-color="#0d2449" />
+    </linearGradient>
+    <radialGradient id="glowA" cx="25%" cy="20%" r="45%">
+    <stop offset="0%" stop-color="#2797ff" stop-opacity="0.32" />
+    <stop offset="100%" stop-color="#2797ff" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glowB" cx="80%" cy="18%" r="40%">
+      <stop offset="0%" stop-color="#7dd3fc" stop-opacity="0.24" />
+      <stop offset="100%" stop-color="#7dd3fc" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect width="1200" height="630" fill="url(#glowA)" />
+  <rect width="1200" height="630" fill="url(#glowB)" />
+  <g opacity="0.16">
+    <path d="M0 120h1200M0 240h1200M0 360h1200M0 480h1200M180 0v630M360 0v630M540 0v630M720 0v630M900 0v630M1080 0v630" stroke="#ffffff" stroke-width="1"/>
+  </g>
+  <g>
+    <rect x="78" y="72" width="1044" height="486" rx="34" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" />
+    <text x="120" y="202" fill="#7dd3fc" font-family="Space Grotesk, Arial, sans-serif" font-size="24" letter-spacing="8">TRAVEL INTELLIGENCE DESK</text>
+    <text x="120" y="312" fill="#ffffff" font-family="Space Grotesk, Arial, sans-serif" font-size="88" font-weight="700">E-TRAV DESK</text>
+    <text x="120" y="388" fill="#d1d5db" font-family="Plus Jakarta Sans, Arial, sans-serif" font-size="30">
+      Futuristic destination discovery, comparison, climate intelligence,
+    </text>
+    <text x="120" y="430" fill="#d1d5db" font-family="Plus Jakarta Sans, Arial, sans-serif" font-size="30">
+      regional hubs, editorial travel stories, and saved journey planning.
+    </text>
+  <rect x="120" y="474" width="226" height="54" rx="27" fill="rgba(39,151,255,0.12)" stroke="rgba(39,151,255,0.42)" />
+    <text x="152" y="509" fill="#f8fafc" font-family="Plus Jakarta Sans, Arial, sans-serif" font-size="24">React + Tailwind + Zustand</text>
+  </g>
+</svg>

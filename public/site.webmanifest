@@ -1,0 +1,17 @@
+{
+  "name": "E-Trav Desk",
+  "short_name": "E-Trav",
+  "description": "A premium travel intelligence frontend built with React, Tailwind, Zustand, and live public APIs.",
+  "theme_color": "#050816",
+  "background_color": "#050816",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
